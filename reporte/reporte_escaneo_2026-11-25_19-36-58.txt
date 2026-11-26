@@ -1,0 +1,25 @@
+Reporte de escaneo - 192.168.1.6 (192.168.1.6)
+Rango escaneado: 1-8000
+Fecha: 2026-11-25 19:36:58.688776
+
+Puertos abiertos, riesgos e información adicional:
+
+- Puerto 135 (Desconocido)
+  Riesgo: Servicio no identificado; revisar manualmente qué está corriendo ahí.
+
+- Puerto 139 (Desconocido)
+  Riesgo: Servicio no identificado; revisar manualmente qué está corriendo ahí.
+
+- Puerto 445 (Desconocido)
+  Riesgo: Servicio no identificado; revisar manualmente qué está corriendo ahí.
+
+- Puerto 5000 (Flask (desarrollo))
+  Riesgo: Servicio web de prueba sin HTTPS ni autenticación; expone panel de login directamente.
+  Servidor HTTP: Werkzeug/3.1.9 Python/3.15.2
+  Cabeceras completas: {'Server': 'Werkzeug/3.1.9 Python/3.15.2', 'Date': 'Thu, 26 Nov 2026 00:35:56 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '59', 'Connection': 'close'}
+
+- Puerto 5040 (Desconocido)
+  Riesgo: Servicio no identificado; revisar manualmente qué está corriendo ahí.
+
+- Puerto 7680 (Desconocido)
+  Riesgo: Servicio no identificado; revisar manualmente qué está corriendo ahí.

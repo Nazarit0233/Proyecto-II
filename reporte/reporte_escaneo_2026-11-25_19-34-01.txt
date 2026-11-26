@@ -1,0 +1,15 @@
+Reporte de escaneo - www.google.com (142.251.153.119)
+Rango escaneado: 443-443
+Fecha: 2026-11-25 19:34:01.991728
+
+Puertos abiertos, riesgos e información adicional:
+
+- Puerto 443 (HTTPS)
+  Riesgo: Tráfico cifrado, pero vulnerable si el servidor usa versiones TLS obsoletas.
+  Servidor HTTP: gws
+  Cabeceras completas: {'Content-Type': 'text/html; charset=ISO-8859-1', 'Date': 'Thu, 26 Nov 2026 00:34:03 GMT', 'Expires': '-1', 'Cache-Control': 'private, max-age=0', 'Content-Security-Policy-Report-Only': "object-src 'none';base-uri 'self';script-src 'nonce-tJSOgEi1rXz53MCzLsDtCw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp", 'P3P': 'CP="This is not a P3P policy! See g.co/p3phelp for more info."', 'Content-Encoding': 'gzip', 'Server': 'gws', 'Content-Length': '29519', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Set-Cookie': '__Secure-STRP=ABNhA6hKDxfWNeL21bzVrNZfhMgVgokzayX-AMaN6AfC5EQ25Dx6SJ3VyW0bLYJF5ZYlhBdhkKMKbyrHd27pu7id-rLblyb47Q; expires=Thu, 26-Nov-2026 00:39:03 GMT; path=/; domain=.google.com; Secure; SameSite=strict, AEC=Aaa9EJoctM8eXW9LyDqXcyZzFF5H1ktU8qDnCdpJ4u27J5eeT043Yx9n_g; expires=Tue, 25-May-2027 00:34:03 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=CvIBCAESpAEBM9Agl14kCXxwEKQ7d04lw17EESQcHlxTY0bSrqTDkZVyquAw-TiYgAdU5VT6F3Tjr8O5O7r9scvWI7CHnATOYtpKdnzzSVZ5nWWaz3WHTzt5l4SxjO4vxEmPyzAnL7jGOmq15BXsSgE3gGrrnwVt0syA26Y6oUh6nQJZxu0J7519eHA1evenCjCe1A6tiB36BGBBZf1h0k2y4ER8dsjUJl-2dSgBMkUBcEpCzwLA9RyQI_ZWRrdn75v0-KUidkovM0JFiJig6ts4aTDEnJxKlFEU3v_tgnXjqpxuPRhp_W1Lw1b9ePVJThOcdgo; expires=Fri, 28-May-2027 00:34:03 GMT; path=/; domain=.google.com; HttpOnly'}
+  Certificado emitido por: No disponible
+  Sujeto: No disponible
+  Válido desde: No disponible hasta: No disponible
+  Vencido: No
+  Versión TLS: TLSv1.3 | Cipher: TLS_AES_256_GCM_SHA384
